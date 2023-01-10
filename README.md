@@ -1,6 +1,6 @@
 # FPGA-Tetris
 
-### Authors: 110321017 1103210
+### Authors: 110321017 110321009 110321037
 
 #### Input/Output unit:<br>
 * 8x8 LED 矩陣，主畫面。<br>
