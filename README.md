@@ -4,11 +4,11 @@
 
 #### Input/Output unit:<br>
 * 8x8 LED 矩陣，主畫面。<br>
-
+![image](https://github.com/ianlin26/FPGA-Tetris/blob/main/24324.jpg)
 * 七段顯示器，用來顯示已經過時間。<br>
-
+![image](https://github.com/ianlin26/FPGA-Tetris/blob/main/24323.jpg)
 * LED 陣列，用來計分。<br>
-
+![image](https://github.com/ianlin26/FPGA-Tetris/blob/d7632f675d09d4b3252841077ad09554a2a53c6b/24322.jpg)
 #### 功能說明:<br>
 - 基本操作，如向左、向右、旋轉
 - 讓所有方塊類型 I, O, T, L, I, Z, S 隨機生成
